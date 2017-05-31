@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:title="Amount warning"
+        android:key="warning"
+        android:summary="a switch to notification that expense’s amount > 100" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:title="Reminders"
+        android:key="reminders"
+        android:summary="Get a notification to remind you to add expenses" />
+</PreferenceScreen>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "975696349948",
+    "firebase_url": "https://expense-70c8b.firebaseio.com",
+    "project_id": "expense-70c8b",
+    "storage_bucket": "expense-70c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975696349948:android:7c0a5d39fc95ee98",
+        "android_client_info": {
+          "package_name": "com.litto.expense2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975696349948-qpqnvad6qu499l695qbjn891s8utrfa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.litto.expense2",
+            "certificate_hash": "BD3A9CD81F17E540AC4CC71F2AB0F7FB752675B6"
+          }
+        },
+        {
+          "client_id": "975696349948-loi09arta0r2u1coduldv4folp9jjiqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9sotLWavGUuX9MNFt-Y5b5UsQCoUn9n4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975696349948-loi09arta0r2u1coduldv4folp9jjiqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
